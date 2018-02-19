@@ -1,0 +1,12 @@
+com\camellia\wso2\example\services\ProductServiceImpl.class
+com\camellia\wso2\example\services\ProductService.class
+com\camellia\wso2\example\domain\Product.class
+com\camellia\wso2\example\services\CRUDService.class
+com\camellia\wso2\example\controllers\IndexController.class
+com\camellia\wso2\example\config\WebConfig.class
+com\camellia\wso2\example\config\SpringSecConfig.class
+com\camellia\wso2\example\repositories\ProductRepository.class
+com\camellia\wso2\example\bootstrap\SpringJpaBootstrap.class
+com\camellia\wso2\example\config\SwaggerConfig.class
+com\camellia\wso2\example\controllers\ProductController.class
+com\camellia\wso2\example\SpringBootWebApplication.class

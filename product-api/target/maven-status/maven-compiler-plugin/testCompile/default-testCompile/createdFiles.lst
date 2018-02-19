@@ -1,0 +1,5 @@
+com\camellia\wso2\example\configuration\RepositoryConfiguration.class
+com\camellia\wso2\example\repositories\ProductRepositoryTest.class
+com\camellia\wso2\example\services\ProductServiceImplMockTest.class
+com\camellia\wso2\example\services\ProductServiceImplSpyTest.class
+com\camellia\wso2\example\SpringBootWebApplicationTests.class
